@@ -1,7 +1,7 @@
 # revisao-front-enddd
  revisão front-end
 
- ## Defginição
+ ## Definição
 
  ### HTML
 
